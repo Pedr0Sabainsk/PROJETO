@@ -1,32 +1,28 @@
 # PROJETO
+
 ## 💡 Processo de Ideação
-"A ideia surgiu a partir da observação de dificuldades enfrentadas pela comunidade local no acesso à informação de saúde. Durante as discussões, identificamos a oportunidade de propor um aplicativo simples e acessível."
+O projeto do site surgiu em meio a uma necessidade profissional, no caso a pessoa usada como referência estava precisando de um site para usar como portifólio pelo fato de trabalhar na área de publicidade e propaganda.
 
 ## 📌 Título do Projeto
-"Aplicativo de Apoio à Saúde Comunitária"
+Site para ser usado de portifólio a pessoas da área de publicidade.
 
 ## 👥 Integrantes do Grupo
 - Guilherme Miyamoto Bragatto(10736124)
 - Pedro Henrique Lopes Sabainsk (10735777)
 - Joaquim Marcondes (10736261)
+  
 ## 📝 Proposta Sintetizada do Projeto
 Exemplo:  
-"O projeto tem como objetivo desenvolver uma plataforma digital que auxilie comunidades locais no monitoramento de indicadores de saúde, promovendo educação preventiva e acompanhamento básico."
+O projeto tem como objetivo desenvolver um portifólio digital que ajude pessoas a divulgar seu trabalho de uma maneira mais atual e automatizada.
 
 ## 🖼️ Protótipo Inicial
 <!-- Inclua imagens ou links das telas, fluxos ou mockups do protótipo inicial -->
 
-
 ## 🌍 Caráter Extensionista
-<!-- Explique como o projeto contribui para a comunidade externa e qual é a sua relevância social -->
+O projeto irá facilitar a vida de quem quer ter um portifólio mais profissional e tecnológico. Sendo assim irá ser um abre portas para oportunidades no mercado de trabalho.
 
-
----
-
-## 🤝 Colaborador Externo
-<!-- Indique quem é a pessoa ou organização parceira que colabora com o projeto nas ações extensionistas -->
-- Organização: Secretaria Municipal de Saúde de São Paulo  
-- Representante: Maria da Silva (Coordenadora de Saúde Comunitária)
+## 🤝 Colaborador Externo  
+- Representante: Beatriz Miyamoto Bragatto (Profissional no mercado de publicidade e propaganda)
 
 ---
 
