@@ -1,10 +1,10 @@
 # PROJETO
 
 ## 💡 Processo de Ideação
-O projeto do site surgiu em meio a uma necessidade profissional, no caso a pessoa usada como referência estava precisando de um site para usar como portifólio pelo fato de trabalhar na área de publicidade e propaganda.
+O projeto do site surgiu em meio a uma necessidade profissional, no caso a pessoa usada como referência estava precisando de um site para usar como portifólio pelo fato de trabalhar na área de publicidade e propaganda e sentir a necessidade de um ambuente para divulgar seus trabalhos de uma maneira mais fácil.
 
 ## 📌 Título do Projeto
-Site para ser usado de portifólio a pessoas da área de publicidade.
+Portifólio pessoal.
 
 ## 👥 Integrantes do Grupo
 - Guilherme Miyamoto Bragatto(10736124)
@@ -19,7 +19,7 @@ O projeto tem como objetivo desenvolver um portifólio digital que ajude pessoas
 <!-- Inclua imagens ou links das telas, fluxos ou mockups do protótipo inicial -->
 
 ## 🌍 Caráter Extensionista
-O projeto irá facilitar a vida de quem quer ter um portifólio mais profissional e tecnológico. Sendo assim irá ser um abre portas para oportunidades no mercado de trabalho.
+O projeto irá facilitar a vida da pessoa escolhida por nós, o site irá beneficiar profissionalmente a cliente, de forma com que fique mais fácil a divulgação de seu trabalho, no caso escolhido iremos ajudar a irmâ de um dos integrantes a divulgar seu trabalho.
 
 ## 🤝 Colaborador Externo  
 - Representante: Beatriz Miyamoto Bragatto (Profissional no mercado de publicidade e propaganda)
