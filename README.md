@@ -33,7 +33,7 @@ Pois o projeto entra como solução que atende a uma necessidade real e imediata
 Tecnologias Utilizadas
 - HTML5: Utilizado para a estruturação semântica de todo o conteúdo, garantindo acessibilidade e otimização.
 - CSS3: Responsável por toda a estilização visual, interatividade via pseudo-classes e responsividade.
--JavaScript: (A SER IMPLEMENTADO).
+- JavaScript: (A SER IMPLEMENTADO).
 
 Explicações do Código
 - Página Inicial (index.html): O layout central foi criado com CSS Grid (display: grid), dividindo a seção em duas colunas (imagem e texto). O destaque visual da foto é um efeito de "brilho neon", usando a propriedade box-shadow, que aplica múltiplas camadas de sombra para simular a luz.
