@@ -17,10 +17,10 @@ Desenvolver uma plataforma digital para consolidar a marca pessoal de uma public
 ## 🖼️ Protótipo Inicial
 Imagens do check-in 2
 <div align="left">
-  <img src="./Imagens/imagem_home.png" alt="Imagem home">
-  <img src="./Imagens/imagem_pagina_meuportifolio.png" alt="Imagem meu portifólio">
-  <img src="./Imagens/imagem_umapagina_projeto.png" alt="Imagem de uma página de produtos">
-  <img src="./Imagens/imagem_contato.png" alt="Imagem página de entre em contato">
+  <img src="./Imagens/imagem_home.png" height="160em" alt="Imagem home" />
+  <img src="./Imagens/imagem_pagina_meuportifolio.png" height="160em" alt="Imagem meu portifólio" />
+  <img src="./Imagens/imagem_umapagina_projeto.png" height="160em" alt="Imagem de uma página de produtos" />
+  <img src="./Imagens/imagem_contato.png" height="160em" alt="Imagem página de entre em contato" />
 </div>
 
 ## 🌍 Caráter Extensionista
