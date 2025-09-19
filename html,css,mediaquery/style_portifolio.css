@@ -83,8 +83,8 @@ header nav ul li a:hover {
 }
 
 .card.visible {
-    opacity: 1; /* Torna-se visível */
-    transform: translateY(0); /* Volta para a posição original */
+    opacity: 1; 
+    transform: translateY(0); 
 }
 
 .card:hover {
@@ -215,4 +215,5 @@ header nav ul li a:hover {
         font-size: 0.9rem;
     }
 }
+
 
